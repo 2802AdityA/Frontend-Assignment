@@ -1,26 +1,12 @@
-# Frontend Assignment - React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### `npm start`
 
-## Live Demo
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-[Json-To-FormUi.netlify.app](https://jsonscheme-to-form.netlify.app/)
-
-## Tech Stack
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-
-## Credit
- - <a href="https://www.npmjs.com/package/react-json-editor-ajrm" >Json editor</a>
-
-### Installation
-
-```
-git clone https://github.com/manavsiddharthgupta/Frontend-Assignment.git
-
-npm install
-
-npm start
-```
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ### `npm test`
 
