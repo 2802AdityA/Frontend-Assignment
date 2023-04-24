@@ -1,12 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
+Internship Assignment for TrueFoundry - UI Schema to Form 
 
-### `npm start`
+Live Site Link - https://ui-schema-to-form.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+Download the repository using:  
+```
+git clone https://github.com/2802AdityA/Frontend-Assignment
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Change the directory:  
+```
+cd Frontend-Assignment
+```
+
+Download the dependencies:  
+```
+npm install
+```
+
+Run the app in the development mode:  
+```
+npm start
+```
+
+Open http://localhost:3000 to view it in your browser.
+
+
+
 
 ### `npm test`
 
