@@ -1,0 +1,22 @@
+.select select {
+  font-size: 0.9rem;
+  padding: 0.25rem 0.5rem;
+  height: 2.5rem;
+  width: 400px;
+  background-color: rgba(193, 226, 233, 0.121);
+  border: 1px solid rgba(38, 0, 255, 0.444);
+  /* border: 1px solid black; */
+  border-radius: 5px;
+  outline: none;
+  order: 2;
+}
+.select
+.required {
+  color: red;
+}
+.info {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0.5rem 0.5rem;
+  order: 3;
+}

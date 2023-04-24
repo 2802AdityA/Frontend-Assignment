@@ -1,0 +1,38 @@
+.input_field {
+  font-size: 0.9rem;
+  width: 400px;
+  min-width: 50px;
+  margin: 0.5rem 1rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid rgba(38, 0, 255, 0.5);
+  border-radius: 5px;
+  outline: none;
+  /* text css */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #333;
+  
+  order: 2;
+}
+.input_text{
+  background-color: rgba(193, 226, 233, 0.296);
+  border: 1px solid rgba(38, 0, 255, 0.5);
+  border-radius: 5px;
+  padding: 0.25rem 0.5rem;
+}
+input[required] + label:after {
+  color: red;
+}
+
+.info{
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0.5rem 0.5rem;
+  order: 3;
+}
+
+
+.required{
+  color: red;
+}

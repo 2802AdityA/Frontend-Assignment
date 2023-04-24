@@ -1,0 +1,30 @@
+.App {
+  height: 100vh;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: row;
+}
+.json_editor {
+  /* border: 2px solid black; */
+  flex-basis: 35%;
+  flex-shrink: 0;
+}
+.form_app {
+  border: 2px solid black;
+  flex-shrink: 2;
+  flex-basis: 65%;
+  overflow-y: scroll;
+  height: 100%;
+}
+@media screen and (max-width: 850px) {
+  .App {
+    display: block;
+  }
+  .json_editor {
+    max-height: 800px;
+  }
+  .form_app {
+    height: fit-content;
+    overflow-y: auto;
+  }
+}

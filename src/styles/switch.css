@@ -1,0 +1,23 @@
+.input_switch {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0rem;
+  /* align-items: center; */
+}
+
+.req_switch {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0rem;
+  /* align-items: center; */
+}
+
+.required {
+  color: red;
+}
+.info {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0.5rem 0.5rem;
+  order: 3;
+}

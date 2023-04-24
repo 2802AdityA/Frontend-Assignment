@@ -1,0 +1,18 @@
+.input_radio {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0rem;
+   
+  /* justify-content: space-between; */
+}
+.required {
+  color: red;
+}
+.info {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0.5rem 0.5rem;
+  order: 3;
+}
