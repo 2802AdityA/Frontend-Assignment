@@ -6,12 +6,12 @@ Live Site Link - https://ui-schema-to-form.vercel.app/
 ## Installation
 Download the repository using:  
 ```
-git clone https://github.com/2802AdityA/Frontend-Assignment
+git clone https://github.com/2802AdityA/uischema-to-form
 ```
 
 Change the directory:  
 ```
-cd Frontend-Assignment
+cd uischema-to-form
 ```
 
 Download the dependencies:  
